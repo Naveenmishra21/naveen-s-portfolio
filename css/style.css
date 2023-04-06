@@ -1,0 +1,154 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+
+body {
+    /* background-color: blueviolet; */
+    font-family: 'poppins';
+    background-color: rgb(19, 13, 13);
+    /* background-image: url("../images/th.jpeg");  */
+}
+
+.head .main-img {
+    padding: 15px;
+
+}
+
+.head .nav {
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    width: 50%;
+    margin-top: 5rem;
+    margin-left: 35rem;
+    padding: 10px;
+}
+
+.head .nav a {
+    text-decoration: none;
+    color: whitesmoke;
+    font-weight: 200;
+
+}
+
+
+
+.head .nav a:hover {
+    color: hotpink;
+    text-decoration: overline;
+    font-weight: 900;
+    scroll-timeline: 0.3s;
+}
+
+.discription {
+    display: flex;
+    position: relative;
+
+}
+
+.discription .discription-text {
+    margin-top: 5rem;
+    text-align: center;
+    margin-left: 12rem;
+    width: 60%;
+    height: 30rem;
+
+}
+
+.discription .discription-text .small-discription-text {
+    color: aliceblue;
+    height: 10rem;
+    width: 40rem;
+    margin-left: 8rem;
+
+}
+
+.discription .discription-imag {
+    position: relative;
+    margin-top: 4rem;
+    margin-left: 4rem;
+    height: 15rem;
+}
+
+
+.education-text {
+    position: relative;
+    text-align: center;
+    border: 2px solid gold;
+    color: aliceblue;
+    margin-top: 5rem;
+    height: 20rem;
+    padding: 5rem;
+
+}
+
+.skills-text {
+    text-align: center;
+    position: relative;
+    border: 2px solid gold;
+    color: aliceblue;
+    margin-top: 5rem;
+    height: 20rem;
+    padding: 5rem;
+
+}
+
+.project-text {
+    position: relative;
+    border: 2px solid gold;
+    color: aliceblue;
+    margin-top: 5rem;
+    height: 20rem;
+    padding: 5rem;
+
+}
+
+.project-text .proj {
+    text-align: center;
+    color: skyblue;
+}
+
+.objective-text {
+    position: relative;
+    border: 2px solid gold;
+    color: aliceblue;
+    text-align: center;
+    margin-top: 5rem;
+    height: 20rem;
+    padding: 5rem;
+}
+
+.objective-text .obje {
+    text-align: center;
+    color: skyblue;
+}
+
+.hobbys-text {
+    position: relative;
+    border: 2px solid gold;
+    color: aliceblue;
+    margin-top: 5rem;
+    height: 20rem;
+    padding: 5rem;
+
+}
+
+.hobbys-text .HOBBY {
+
+    text-align: center;
+    color: skyblue;
+
+}
+
+.sports-text {
+    position: relative;
+    border: 2px solid gold;
+    color: aliceblue;
+    margin-top: 5rem;
+    height: 20rem;
+    padding: 5rem;
+
+}
+
+.sports-text .sport {
+    text-align: center;
+    color: skyblue;
+}
