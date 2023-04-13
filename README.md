@@ -5,7 +5,7 @@
 ![frontpage](https://user-images.githubusercontent.com/106433310/231860653-f3bc1c13-75cf-4887-80a2-c5147681c8a6.png)
 
 
-<h3 align="center">Swag India</h3>
+<h3 align="center">Portfolio website</h3>
 
 ---
 
@@ -24,8 +24,12 @@
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgement)
 
-## 🧐 About <a name = "about"></a>
-Fully Functional E-commerce website Swag of India is a responsive e-commerce website. The technologies used in this project are HTML, CSS, Vanilla JavaScript and Bootstrap. There are a few important modules in the project like home page, image carousel, product listing page, product page, cart page, wishlist page etc. The data is accessed using ajax call and then rendered into the webpage using dynamic html template created using string literals. For cart-page we are using localstorage to temporarily storing data before clicking on the checkout button. I took almost 40 - 50 hrs to complete this project. SkillLync helped me by providing the wire-frames for all relevant feature pages
+## 🐧🐌👀 About <a name = "about"></a>
+Fully Functional Personal portfolio website is a responsive resume portfolio website. The technologies used in this project are like HTML, CSS, JAVASCRIPT,
+BOTSTRAP. There Are Few Importent sections in this project like Contact, Education, Skills, Projects, Sports Sections etc. The Main Part of The Website is
+Contacts Section in this Section i Have added one contact me page from that page any user can contact me through E-Mail he have to fill Some Details Like
+Name, E-Mail Id, and the Message that he wants to Conway To Me and after clicking on the submit button i will automaticaly receve an E-Mail.
+
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
@@ -37,13 +41,13 @@ What things you need to install the software and how to install them.
 Give examples
 ```
 
-### Installing
+### Check Output!!
 A step by step series of examples that tell you how to get a development env running.
 
 Say what the step will be
 
 ```
-Give the example
+https://naveenmishra21.github.io/naveen-s-portfolio/
 ```
 
 And repeat
