@@ -9,15 +9,13 @@
 
 ---
 
-<p align="center"> Few lines describing your project.
-    <br> 
-</p>
 
 ## 📝 Table of Contents
 - [About](#about)
 - [Getting Started](#getting_started)
+- [Check Output!!](#Check Output!!)
 - [Deployment](#deployment)
-- [Usage](#usage)
+- [Usage](#usage) 
 - [Flow Chart](#flowchart)
 - [Acknowledgments](#acknowledgement)
 
@@ -39,16 +37,6 @@ By using this link you can check the output of my website
 ```
 https://naveenmishra21.github.io/naveen-s-portfolio/
 ```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo.
-
-
 
 
 =======
