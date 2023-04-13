@@ -4,7 +4,7 @@
 # project-documentation
 
 <p align="center">
- <img width=205px height=200px src="front-part.png" alt="Project logo">
+ <img width=205px height=200px src="front-part.png" >
 </p>
 
 
