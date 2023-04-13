@@ -4,8 +4,7 @@
 # project-documentation
 
 <p align="center">
-  <a href="" rel="noopener">
- <img width=205px height=200px src="front-part.png" alt="Project logo"></a>
+ <img width=205px height=200px src="front-part.png" alt="Project logo">
 </p>
 
 
