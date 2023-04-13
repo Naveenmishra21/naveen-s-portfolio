@@ -2,10 +2,7 @@
 
 # project-documentation
 
-<p align="center">
-  <a href="" rel="noopener">
- <img  src="frontpage.png" width=500px height=200px  alt="Project logo"></a>
-</p>
+![frontpage](https://user-images.githubusercontent.com/106433310/231860653-f3bc1c13-75cf-4887-80a2-c5147681c8a6.png)
 
 
 <h3 align="center">Swag India</h3>
